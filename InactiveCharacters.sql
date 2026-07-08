@@ -8,6 +8,7 @@ WITH cte_inactive AS (
         'Gordman',
         'Divine',
         'Divinê',
+        'Hmmguard',
         'Wader',
         'Vancleef',
         'Fjordur',
@@ -27,7 +28,6 @@ WITH cte_inactive AS (
         'Brotherofwar',
         'Tanky',
         'Poorpower',
-        'Gwilliam',
         'Thanx',
         'Nandor',
         'Drimpen',
@@ -36,7 +36,9 @@ WITH cte_inactive AS (
         'Pälsarn',
         'Shelf',
         'Mf',
-        'Hoiga'
+        'Hoiga',
+        'Halleparry',
+        'Holychad'
     )
     UNION
     SELECT * FROM InactiveCharacters

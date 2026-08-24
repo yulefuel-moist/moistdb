@@ -49,7 +49,14 @@ WITH cte_inactive AS (
         'Danmage',
         'Ophey',
         'Fjall',
-        'Saelynn'
+        'Saelynn',
+        'Tyske',
+        'Arkenoth',
+        'Oldwise',
+        'Zoiana',
+        'Lygeia',
+        'Dreschflegel',
+        'Bruderhau'
     )
     UNION
     SELECT * FROM InactiveCharacters

@@ -56,7 +56,26 @@ WITH cte_inactive AS (
         'Zoiana',
         'Lygeia',
         'Dreschflegel',
-        'Bruderhau'
+        'Bruderhau',
+        'Ñn',
+        'Insomnyia',
+        'Battar',
+        'Draxo',
+        'Murclos',
+        'Affenkeks',
+        'Berri',
+        'Honorback',
+        'Abdalla',
+        'Bado',
+        'Arthor',
+        'Svartalfar',
+        'Granselbert',
+        'Jujuma',
+        'Frostypop',
+        'Eweewew',
+        'Orgey',
+        'Thoreon',
+        'Datsik'
     )
     UNION
     SELECT * FROM InactiveCharacters

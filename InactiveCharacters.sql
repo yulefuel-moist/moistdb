@@ -38,7 +38,18 @@ WITH cte_inactive AS (
         'Mf',
         'Hoiga',
         'Halleparry',
-        'Holychad'
+        'Holychad',
+        'Frozenwarr',
+        'Littlebird',
+        'Lamagrà',
+        'Fletch',
+        'Tibies',
+        'Alagathor',
+        'Pyroglade',
+        'Danmage',
+        'Ophey',
+        'Fjall',
+        'Saelynn'
     )
     UNION
     SELECT * FROM InactiveCharacters

@@ -54,7 +54,6 @@ WITH cte_inactive AS (
         'Arkenoth',
         'Oldwise',
         'Zoiana',
-        'Lygeia',
         'Dreschflegel',
         'Bruderhau',
         'Ñn',

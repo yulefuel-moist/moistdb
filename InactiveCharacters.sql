@@ -75,7 +75,8 @@ WITH cte_inactive AS (
         'Orgey',
         'Thoreon',
         'Datsik',
-        'Shilwa'
+        'Shilwa',
+        
     )
     UNION
     SELECT * FROM InactiveCharacters

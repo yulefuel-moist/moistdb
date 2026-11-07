@@ -78,7 +78,11 @@ WITH cte_inactive AS (
         'Shilwa',
         'Krits',
         'Snoillim',
-        'Alea'
+        'Alea',
+        'Aminth',
+        'Gangrecoeur',
+        'Olibanum',
+        'Mssingno'
     )
     UNION
     SELECT * FROM InactiveCharacters

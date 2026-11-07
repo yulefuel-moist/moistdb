@@ -33,4 +33,4 @@ WHERE item_id IN (
     23060, -- Bonescythe Ring
     23062, -- Frostfire Ring
     23063 -- Plagueheart Ring
-)
+);
